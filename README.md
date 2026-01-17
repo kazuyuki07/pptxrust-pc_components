@@ -12,7 +12,7 @@
     {
     "categories": [
         {
-        "name": "{Название}",
+        "name": "мыши",
         "devices": [
             {"model": "{Razer DeathAdder Essential}", "price": 2890, "params": {"сенсор": "10000 dpi", "скорость": "650 ips"}},
             {"model": "Logitech G Pro", "price": 9646, "params": {"сенсор": "25600 dpi", "скорость": "400 ips"}}
