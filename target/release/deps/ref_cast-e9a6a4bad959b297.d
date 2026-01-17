@@ -1,0 +1,14 @@
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\ref_cast-e9a6a4bad959b297.d: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\custom.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\layout.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\trivial.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\private.rs D:\программирование\rust\lessons\pptx-prj\target\release\build\ref-cast-31196534ac7a9851\out/private.rs
+
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\libref_cast-e9a6a4bad959b297.rlib: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\custom.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\layout.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\trivial.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\private.rs D:\программирование\rust\lessons\pptx-prj\target\release\build\ref-cast-31196534ac7a9851\out/private.rs
+
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\libref_cast-e9a6a4bad959b297.rmeta: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\custom.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\layout.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\trivial.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\private.rs D:\программирование\rust\lessons\pptx-prj\target\release\build\ref-cast-31196534ac7a9851\out/private.rs
+
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\lib.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\custom.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\layout.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\trivial.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ref-cast-1.0.25\src\private.rs:
+D:\программирование\rust\lessons\pptx-prj\target\release\build\ref-cast-31196534ac7a9851\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\программирование\\rust\\lessons\\pptx-prj\\target\\release\\build\\ref-cast-31196534ac7a9851\\out

@@ -1,0 +1,11 @@
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\yaml_rust-fc9d78cdec8120ac.d: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\emitter.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\parser.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\scanner.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\yaml.rs
+
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\libyaml_rust-fc9d78cdec8120ac.rlib: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\emitter.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\parser.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\scanner.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\yaml.rs
+
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\libyaml_rust-fc9d78cdec8120ac.rmeta: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\emitter.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\parser.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\scanner.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\lib.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\emitter.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\parser.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\scanner.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yaml-rust-0.4.5\src\yaml.rs:

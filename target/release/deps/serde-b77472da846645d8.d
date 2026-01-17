@@ -1,0 +1,14 @@
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\serde-b77472da846645d8.d: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\программирование\rust\lessons\pptx-prj\target\release\build\serde-c2c98b37bab3cf0c\out/private.rs
+
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\libserde-b77472da846645d8.rlib: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\программирование\rust\lessons\pptx-prj\target\release\build\serde-c2c98b37bab3cf0c\out/private.rs
+
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\libserde-b77472da846645d8.rmeta: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\программирование\rust\lessons\pptx-prj\target\release\build\serde-c2c98b37bab3cf0c\out/private.rs
+
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+D:\программирование\rust\lessons\pptx-prj\target\release\build\serde-c2c98b37bab3cf0c\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\программирование\\rust\\lessons\\pptx-prj\\target\\release\\build\\serde-c2c98b37bab3cf0c\\out

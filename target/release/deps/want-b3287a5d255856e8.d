@@ -1,0 +1,7 @@
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\want-b3287a5d255856e8.d: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\want-0.3.1\src\lib.rs
+
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\libwant-b3287a5d255856e8.rlib: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\want-0.3.1\src\lib.rs
+
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\libwant-b3287a5d255856e8.rmeta: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\want-0.3.1\src\lib.rs
+
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\want-0.3.1\src\lib.rs:

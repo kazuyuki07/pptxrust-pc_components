@@ -1,0 +1,10 @@
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\derive_more-73ae83bd548319f2.d: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\syn_compat.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\utils.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_assign_like.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_helpers.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_like.rs
+
+D:\программирование\rust\lessons\pptx-prj\target\release\deps\derive_more-73ae83bd548319f2.dll: C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\lib.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\syn_compat.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\utils.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_assign_like.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_helpers.rs C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_like.rs
+
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\lib.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\syn_compat.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\utils.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_assign_like.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_helpers.rs:
+C:\Users\kazuyuki\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_like.rs:
